@@ -12,6 +12,9 @@ require (
 	github.com/Azure/go-autorest/autorest/to v0.4.0 // indirect
 	github.com/Azure/go-autorest/autorest/validation v0.3.0 // indirect
 	github.com/Djarvur/go-err113 v0.1.0 // indirect
+	github.com/alibabacloud-go/alimt-20181012 v1.0.0
+	github.com/alibabacloud-go/darabonba-openapi v0.1.5
+	github.com/alibabacloud-go/tea v1.1.15
 	github.com/aws/aws-sdk-go v1.34.15 // indirect
 	github.com/daixiang0/gci v0.2.4 // indirect
 	github.com/go-critic/go-critic v0.5.2 // indirect
